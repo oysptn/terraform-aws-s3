@@ -9,16 +9,8 @@ This project is part the boilderplate project for all of my terraform modules, w
 
 These features of S3 bucket configurations are supported:
 
-- static web-site hosting
-- access logging
-- versioning
-- CORS
-- lifecycle rules
 - server-side encryption
 - object locking
-- Cross-Region Replication (CRR)
-- ELB log delivery bucket policy
-- ALB/NLB log delivery bucket policy
 
 ## Usage
 
