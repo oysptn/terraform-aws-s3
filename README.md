@@ -48,23 +48,6 @@ module "s3_bucket" {
   tags = local.tags
 }
 ```
-## Examples:
-- [S3 Bucket Object]() - Manage S3 bucket objects.
-
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-## Requirements
-
-| Name | Version |
-|------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.13.1 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 4.9 |
-
-## Providers
-
-| Name | Version |
-|------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | >= 5.0.0 |
-
 ## Authors
 
 Module is maintained by [Toan Trinh](https://github.com/comicalwriter) with help from [these awesome contributors](https://github.com/oysptn/terraform-aws-s3/graphs/contributors).
