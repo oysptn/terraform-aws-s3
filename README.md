@@ -91,7 +91,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_create_private_bucket"></a> [create\_private\_bucket](#input\_create\_private\_bucket) | Create private bucket | `bool` | `false` | no |
 | <a name="input_environment"></a> [environment](#input\_environment) | n/a | `string` | n/a | yes |
-| <a name="input_force_destroy"></a> [force\_destroy](#input\_force\_destroy) | n/a | `bool` | `false` | no |
+| <a name="input_force_destroy"></a> [force\_destroy](#input\_force\_destroy) | True or False | `bool` | `false` | no |
 | <a name="input_prefix"></a> [prefix](#input\_prefix) | n/a | `string` | `"ptn"` | no |
 | <a name="input_project"></a> [project](#input\_project) | n/a | `string` | n/a | yes |
 | <a name="input_region"></a> [region](#input\_region) | n/a | `string` | n/a | yes |
