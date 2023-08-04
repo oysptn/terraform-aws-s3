@@ -43,8 +43,7 @@ jobs:
           output-file: README.md
           output-method: inject
           git-push: "true"
-        env:
-          GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_ACCESS_TOKEN }}
+
 # Reusable Workflow https://github.blog/2022-02-10-using-reusable-workflows-github-actions/ 
 # Kubernetes https://dev.to/kitarp29/running-kubernetes-on-github-actions-f2c
 # Security https://medium.com/@nanditasahu031/how-to-use-different-tools-to-do-terraform-checks-in-github-actions-b16e9fa73c42
