@@ -32,6 +32,7 @@ variable "tags" {
 }
 
 variable "force_destroy" {
+  description = "True or False"
   type = bool
   default = false
 }
