@@ -8,7 +8,7 @@
 
 - None
 
-###3) Where should the reviewer begin?
+### 3) Where should the reviewer begin?
 
 - None
 
