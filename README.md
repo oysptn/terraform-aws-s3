@@ -18,7 +18,7 @@ These features of S3 bucket configurations are supported:
 
 ```hcl
 module "s3_bucket" {
-  source = "../s3"
+  source = "oysptn/s3/aws"
     
   region = "us-east-1
   region_code = "ue1"
@@ -35,7 +35,7 @@ module "s3_bucket" {
 
 ```hcl
 module "s3_bucket" {
-  source = "../s3"
+  source = "oysptn/s3/aws"
     
   region = "us-east-1
   region_code = "ue1"
