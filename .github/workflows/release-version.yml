@@ -14,7 +14,6 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    needs: docs
     steps:
       # Get PR from merged commit to master
       - uses: actions-ecosystem/action-get-merged-pull-request@v1
