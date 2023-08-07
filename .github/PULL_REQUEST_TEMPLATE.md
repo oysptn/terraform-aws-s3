@@ -2,16 +2,16 @@
 
 ## 1) What is the purpose of this pull request?
 
-* - None
+- None
 
 ## 2) Link to the relevant ticket(s)
 
-* - None
+- None
 
 ## 3) Where should the reviewer begin?
 
-* - None
+- None
 
 ## 4) Is there anything else that needs to be done before deployment (notifying someone, dealing with another issue, etc.)?
 
-* - None
+- None
