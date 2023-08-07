@@ -2,6 +2,10 @@ name: 'Validate and Generate module documentation'
 
 on:
   workflow_dispatch:
+    inputs:
+      priority:
+        description: 'This workflow has low priority'
+        required: true
   pull_request:
   push:
 

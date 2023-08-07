@@ -2,6 +2,10 @@ name: "Release new module version"
 
 on:
   workflow_dispatch:
+    inputs:
+      priority:
+        description: 'This workflow has low priority'
+        required: true
   pull_request:
     branches:
       - main
